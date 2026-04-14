@@ -9,19 +9,25 @@ This is an interactive Linux shell script, that makes an SAP kernel patch proces
 
 ## How it works
 Prompts for an SID and checks if it is valid:
-![](./screenshots/1-enter-sid.png)
+
+<img src="./screenshots/1-enter-sid.png" width="50%">
 
 Prompts for a path with extracted kernel files:
-![](./screenshots/2-enter-path.png)
+
+<img src="./screenshots/2-enter-path.png" width="50%">
 
 Checks if there are runnging processes, and waits for you to stop them:
-![](./screenshots/3-check-processes.png)
+
+<img src="./screenshots/3-check-processes.png" width="50%">
 
 Displays a summary of collected data and lists the next steps:
-![](./screenshots/4-summary.png)
+
+<img src="./screenshots/4-summary.png" width="50%">
 
 Executes the steps:
-![](./screenshots/5-process.png)
+
+<img src="./screenshots/5-process.png" width="50%">
 
 After successful completion, asks you to restart the host:
-![](./screenshots/6-restart.png)
+
+<img src="./screenshots/6-restart.png" width="50%">

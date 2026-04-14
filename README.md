@@ -4,8 +4,8 @@ This is an interactive Linux shell script, that makes an SAP kernel patch proces
 ## Quick start
 1. Download the script from the Releases section.
 2. Upload it to your Linux/Unix server.
-3. Set executable permissions for root.
-4. Run the script: ./sap_kernel_patch.sh
+3. Set execute permissions for root.
+4. Run the script as root: ./sap_kernel_patch.sh
 
 ## How it works
 Prompts for an SID and checks if it is valid:
